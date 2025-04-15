@@ -13,7 +13,7 @@ This project presents an **AI-powered Security Operations Center (SOC) dashboard
 
 ## 🧰 Tech Stack
 
-- Python 3.x
+- Python 3.11.12
 
 - Streamlit – Interactive UI
 
