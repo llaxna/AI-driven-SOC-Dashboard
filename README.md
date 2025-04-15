@@ -10,7 +10,7 @@ This project presents an **AI-powered Security Operations Center (SOC) dashboard
 - 📈 **Visual Performance Metrics**: F1-Score, Precision, Recall, ROC-AUC, PR-AUC, Accuracy
 - ⚠️ **Detection of Attacks** like PortScan, DDoS, and Infiltration
 - 📊 **Interactive Streamlit Dashboard**
-- 
+  
 ## 🧰 Tech Stack
 
 - Python 3.11.12
