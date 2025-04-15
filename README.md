@@ -4,13 +4,13 @@ This project presents an **AI-powered Security Operations Center (SOC) dashboard
 
 ## 🔍 Features
 
-- 📊 **Interactive Streamlit Dashboard**
+- 📁 **CICIDS 2017 Dataset**: Real-world network traffic data
 - 🧠 **Unsupervised ML Models**: Isolation Forest, Local Outlier Factor (LOF), One-Class SVM
 - 📉 **Dimensionality Reduction** with PCA
-- 📁 **CICIDS 2017 Dataset**: Real-world network traffic data
 - 📈 **Visual Performance Metrics**: F1-Score, Precision, Recall, ROC-AUC, PR-AUC, Accuracy
 - ⚠️ **Detection of Attacks** like PortScan, DDoS, and Infiltration
-
+- 📊 **Interactive Streamlit Dashboard**
+- 
 ## 🧰 Tech Stack
 
 - Python 3.11.12
